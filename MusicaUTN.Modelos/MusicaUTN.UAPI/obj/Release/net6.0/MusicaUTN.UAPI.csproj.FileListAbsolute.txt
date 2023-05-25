@@ -1,0 +1,12 @@
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\bin\Release\net6.0\MusicaUTN.UAPI.deps.json
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\bin\Release\net6.0\MusicaUTN.UAPI.dll
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\bin\Release\net6.0\MusicaUTN.UAPI.pdb
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\obj\Release\net6.0\MusicaUTN.UAPI.csproj.AssemblyReference.cache
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\obj\Release\net6.0\MusicaUTN.UAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\obj\Release\net6.0\MusicaUTN.UAPI.AssemblyInfoInputs.cache
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\obj\Release\net6.0\MusicaUTN.UAPI.AssemblyInfo.cs
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\obj\Release\net6.0\MusicaUTN.UAPI.csproj.CoreCompileInputs.cache
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\obj\Release\net6.0\MusicaUTN.UAPI.dll
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\obj\Release\net6.0\refint\MusicaUTN.UAPI.dll
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\obj\Release\net6.0\MusicaUTN.UAPI.pdb
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.UAPI\obj\Release\net6.0\ref\MusicaUTN.UAPI.dll

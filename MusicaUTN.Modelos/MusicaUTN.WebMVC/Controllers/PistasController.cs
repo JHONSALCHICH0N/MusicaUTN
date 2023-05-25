@@ -9,11 +9,13 @@ namespace MusicaUTN.WebMVC.Controllers
     public class PistasController : Controller
     {
 
-        private string Url = "https://localhost:7249/api/Pistas";
+        //private string Url = "https://localhost:7249/api/Pistas";
+        private string Url;
         private Crud<Pista> Crud { get; set; }
 
-        public PistasController()
+        public PistasController(IConfiguration conf)
         {
+            this.Url = conf.GetValue<String>("ApiUrl")+"pistas";
             Crud = new Crud<Pista>();
         }
         // GET: PistasController
