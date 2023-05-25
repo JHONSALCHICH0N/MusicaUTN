@@ -16,12 +16,48 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.WebMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Autores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Autores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Autores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Autores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Autores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b3Jlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Pistas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlzdGFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Pistas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlzdGFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Pistas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlzdGFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Pistas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlzdGFzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jaft1/Videos/DOCUMENTOS/Trabajos Sueltos/CC/Deber CC/MusicaUTN.Modelos/MusicaUTN.WebMVC/Views/Pistas/Index.cshtml]

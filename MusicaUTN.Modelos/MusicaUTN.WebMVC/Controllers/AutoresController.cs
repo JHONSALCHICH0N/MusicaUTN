@@ -6,18 +6,19 @@ using MusicaUTN.UAPI;
 
 namespace MusicaUTN.WebMVC.Controllers
 {
-    public class PistasController : Controller
+    public class AutoresController : Controller
     {
 
         //private string Url = "https://localhost:7249/api/Pistas";
         private string Url;
-        private Crud<Pista> Crud { get; set; }
+        private Crud<Autor> Crud { get; set; }
 
-        public PistasController(IConfiguration conf)
+        public AutoresController(IConfiguration conf)
         {
-            this.Url = conf.GetValue<String>("ApiUrl")+"Pistas";
-            Crud = new Crud<Pista>();
+            this.Url = conf.GetValue<String>("ApiUrl") + "Autores";
+            Crud = new Crud<Autor>();
         }
+
         // GET: PistasController
         public ActionResult Index()
         {
@@ -36,16 +37,16 @@ namespace MusicaUTN.WebMVC.Controllers
         public ActionResult Create()
         {
             // obtenemos la lista de autores para que sea usada en la Vista en un ComboBox
-            var listaAutores = new Crud<Autor>()
-                .Select(Url.Replace("Pistas", "Autores"))
-                .Select(p => new SelectListItem     // transformamos del tipo Autores -> SelectListItem
-                {
-                    Value = p.Id.ToString(),       // codigo de Autores
-                    Text = p.Nombre                // nombre de autores
-                })
-                .ToList();
-            Console.WriteLine(Url);
-            ViewBag.ListaAutores = listaAutores;  // pasamos la lista de Autores a la vista
+            //var listaAutores = new Crud<Autor>()
+            //    .Select(Url.Replace("Pistas", "Autores"))
+            //    .Select(p => new SelectListItem     // transformamos del tipo Autores -> SelectListItem
+            //    {
+            //        Value = p.Id.ToString(),       // codigo de Autores
+            //        Text = p.Nombre                // nombre de autores
+            //    })
+            //    .ToList();
+            //Console.WriteLine(Url);
+            //ViewBag.ListaAutores = listaAutores;  // pasamos la lista de Autores a la vista
 
             return View();
         }
@@ -53,7 +54,7 @@ namespace MusicaUTN.WebMVC.Controllers
         // POST: PistasController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Pista datos)
+        public ActionResult Create(Autor datos)
         {
             try
             {
@@ -69,18 +70,6 @@ namespace MusicaUTN.WebMVC.Controllers
         // GET: PistasController/Edit/5
         public ActionResult Edit(int id)
         {
-            // obtenemos la lista de autores para que sea usada en la Vista en un ComboBox
-            var listaAutores = new Crud<Autor>()
-                .Select(Url.Replace("Pistas", "Autores"))
-                .Select(p => new SelectListItem     // transformamos del tipo Autores -> SelectListItem
-                {
-                    Value = p.Id.ToString(),       // codigo de autores
-                    Text = p.Nombre                // nombre de autores
-                })
-                .ToList();
-
-            ViewBag.ListaAutores = listaAutores;  // pasamos la lista de Autores a la vista
-
             var datos = Crud.Select_ById(Url, id.ToString());
             return View(datos);
         }
@@ -88,7 +77,7 @@ namespace MusicaUTN.WebMVC.Controllers
         // POST: PistasController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, Pista datos)
+        public ActionResult Edit(int id, Modelos.Autor datos)
         {
             try
             {
