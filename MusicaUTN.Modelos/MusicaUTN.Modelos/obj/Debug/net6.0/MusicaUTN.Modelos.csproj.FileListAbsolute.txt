@@ -1,0 +1,14 @@
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\bin\Debug\net6.0\MusicaUTN.Modelos.deps.json
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\bin\Debug\net6.0\MusicaUTN.Modelos.dll
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\bin\Debug\net6.0\MusicaUTN.Modelos.pdb
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\obj\Debug\net6.0\MusicaUTN.Modelos.csproj.AssemblyReference.cache
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\obj\Debug\net6.0\MusicaUTN.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\obj\Debug\net6.0\MusicaUTN.Modelos.AssemblyInfoInputs.cache
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\obj\Debug\net6.0\MusicaUTN.Modelos.AssemblyInfo.cs
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\obj\Debug\net6.0\MusicaUTN.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\obj\Debug\net6.0\MusicaUTN.Modelos.dll
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\obj\Debug\net6.0\refint\MusicaUTN.Modelos.dll
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\obj\Debug\net6.0\MusicaUTN.Modelos.pdb
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\obj\Debug\net6.0\ref\MusicaUTN.Modelos.dll
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\bin\Debug\net6.0\MusicaUTN.Modelos.runtimeconfig.json
+C:\Users\jaft1\Videos\DOCUMENTOS\Trabajos Sueltos\CC\Deber CC\MusicaUTN.Modelos\MusicaUTN.Modelos\obj\Debug\net6.0\MusicaUTN.Modelos.genruntimeconfig.cache

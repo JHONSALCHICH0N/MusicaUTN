@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "APVQfrMaxXg18J4kxfLsYEUXMA3rc8qSAaMuafJIy/48+9cttiwFKG9ol275LrPO9aYDe6WmJuPcxgnDMdg+aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaft1\\Videos\\DOCUMENTOS\\Trabajos Sueltos\\CC\\Deber CC\\MusicaUTN.Modelos\\MusicaUTN.UAPI\\MusicaUTN.UAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaft1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
